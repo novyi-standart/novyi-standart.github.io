@@ -68,6 +68,10 @@
         margin-left: 16px;
         margin-right: 16px;
     }
+
+    .address h2 {
+        padding-top: 40px;
+    }
 }
 
 @media screen and (min-width: 1350px) {
